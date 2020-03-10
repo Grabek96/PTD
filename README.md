@@ -1,1 +1,1 @@
-# PTD
+# PTD Podstawy Transmisji Danych
